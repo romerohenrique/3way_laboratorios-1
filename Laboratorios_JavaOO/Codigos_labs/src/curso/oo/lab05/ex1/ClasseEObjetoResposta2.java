@@ -17,12 +17,11 @@ public class ClasseEObjetoResposta2 {
 		String strObjeto2 = "Este objeto é uma instância da classe String";
 		System.out.println("estado da instância de strObjeto2 = " + strObjeto2);
 
-		// todo 1 - Altere para criar uma instancia de Integer
 		// cria uma instância de objeto da classe Integer
-		Integer intObjeto1 = ;
+		Integer intObjeto1 = new Integer("1000");
 
-		//todo 2 - altere para mostrar o estado da instancia Integer criada anteriormente
-		System.out.println("estado da instância de intObjeto1 = ");
+		// anteriormente
+		System.out.println("estado da instância de intObjeto1 = " + intObjeto1);
 
 	}
 
